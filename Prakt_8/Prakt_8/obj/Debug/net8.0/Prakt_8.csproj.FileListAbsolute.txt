@@ -1,0 +1,14 @@
+D:\лаб\Prakt_8\Prakt_8\bin\Debug\net8.0\Prakt_8.exe
+D:\лаб\Prakt_8\Prakt_8\bin\Debug\net8.0\Prakt_8.deps.json
+D:\лаб\Prakt_8\Prakt_8\bin\Debug\net8.0\Prakt_8.runtimeconfig.json
+D:\лаб\Prakt_8\Prakt_8\bin\Debug\net8.0\Prakt_8.dll
+D:\лаб\Prakt_8\Prakt_8\bin\Debug\net8.0\Prakt_8.pdb
+D:\лаб\Prakt_8\Prakt_8\obj\Debug\net8.0\Prakt_8.GeneratedMSBuildEditorConfig.editorconfig
+D:\лаб\Prakt_8\Prakt_8\obj\Debug\net8.0\Prakt_8.AssemblyInfoInputs.cache
+D:\лаб\Prakt_8\Prakt_8\obj\Debug\net8.0\Prakt_8.AssemblyInfo.cs
+D:\лаб\Prakt_8\Prakt_8\obj\Debug\net8.0\Prakt_8.csproj.CoreCompileInputs.cache
+D:\лаб\Prakt_8\Prakt_8\obj\Debug\net8.0\Prakt_8.dll
+D:\лаб\Prakt_8\Prakt_8\obj\Debug\net8.0\refint\Prakt_8.dll
+D:\лаб\Prakt_8\Prakt_8\obj\Debug\net8.0\Prakt_8.pdb
+D:\лаб\Prakt_8\Prakt_8\obj\Debug\net8.0\Prakt_8.genruntimeconfig.cache
+D:\лаб\Prakt_8\Prakt_8\obj\Debug\net8.0\ref\Prakt_8.dll
